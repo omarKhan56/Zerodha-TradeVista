@@ -1,4 +1,4 @@
-# 🚀 Zerodha Trading Platform Clone (Full-Stack)
+# 🚀 Zerodha Trading Platform Clone 
 
 A **full-stack Zerodha-inspired trading platform clone** built to demonstrate modern web development skills, clean project structuring, and real-world frontend–backend integration.
 
@@ -258,3 +258,4 @@ A passionate full‑stack developer focused on building **scalable, real‑world
 This project is intentionally designed to reflect **real project structure, clean code organization, and frontend–backend integration** — making it ideal for interviews and portfolio reviews.
 
 If you find this project useful, consider giving it a ⭐ on GitHub!
+
